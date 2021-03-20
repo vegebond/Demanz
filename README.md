@@ -3,7 +3,7 @@ I hereby grant permission to freely distribute this software and associated file
 
 A tool for Demand Forecasting
 
-Before running the program, you should have two csv files, which can be opened for viewing in Excel.
+Before running the program, you should have two csv files, which can be created in Excel.
 
 One is the sales history, and contains the fields, ‘product’, and ‘sold’. If this is six weeks of weekly sales totals, each product would have six rows, each with the amount sold for that week.
 
