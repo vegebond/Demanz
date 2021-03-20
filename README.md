@@ -1,4 +1,6 @@
 # Demanz © 2021 Allen D. Montgomery
+I hereby grant permission to freely distribute this software and associated files, without modification.
+
 A tool for Demand Forecasting
 
 Before running the program, you should have two csv files, which can be opened for viewing in Excel.
